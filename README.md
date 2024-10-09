@@ -13,6 +13,11 @@ In this project, we utilize the opacity-based pruning method to give the user co
   </tr>
 </table>
 
+
+### Leveraging depth maps
+Instead of initializing the Gaussian point cloud randomly, this repository also offers the opportunity of leveraging depth maps to initialize the scene with a better geometry. 
+
+
 <table>
   <tr>
     <td align="center"><img src="assets/opt_video.gif"/></td>
