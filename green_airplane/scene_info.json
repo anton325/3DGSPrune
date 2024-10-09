@@ -1,0 +1,57 @@
+{
+    "sun_energy": 30.0,
+    "sun_rotation_euler": [
+        1.2793396711349487,
+        0.0,
+        -1.5707963705062866
+    ],
+    "spotsampled1_rotation_euler": [
+        5.370410442352295,
+        0.0,
+        2.0012998580932617
+    ],
+    "spotsampled1_location": [
+        -1.606042504310608,
+        -0.7375439405441284,
+        1.3660151958465576
+    ],
+    "spotsampled1_energy": 60000.0,
+    "spotsampled1_distance": 2.0,
+    "spotsampled1_spot_size": 0.10000000149011612,
+    "spotsampled1_spot_blend": 0.20000000298023224,
+    "spotsampled2_rotation_euler": [
+        5.908288478851318,
+        0.0,
+        -2.7478692531585693
+    ],
+    "spotsampled2_location": [
+        0.3185384273529053,
+        -0.7667973041534424,
+        2.1100685596466064
+    ],
+    "spotsampled2_energy": 60000.0,
+    "spotsampled2_distance": 2.0,
+    "spotsampled2_spot_size": 0.10000000149011612,
+    "spotsampled2_spot_blend": 0.20000000298023224,
+    "spotsampled3_rotation_euler": [
+        5.4447221755981445,
+        0.0,
+        -0.5979690551757812
+    ],
+    "spotsampled3_location": [
+        0.9148569703102112,
+        1.343087911605835,
+        1.4611443281173706
+    ],
+    "spotsampled3_energy": 60000.0,
+    "spotsampled3_distance": 2.0,
+    "spotsampled3_spot_size": 0.10000000149011612,
+    "spotsampled3_spot_blend": 0.20000000298023224,
+    "cam_loc": [
+        0.0,
+        1.7000000476837158,
+        0.0
+    ],
+    "cam_lens": 35.0,
+    "cam_sensor_width": 32.0
+}
